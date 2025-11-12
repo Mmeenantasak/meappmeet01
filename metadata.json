@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Notes App",
+  "description": "A comprehensive, single-page meeting notes application with real-time collaboration features simulated via localStorage, participant management with drag-and-drop, and various productivity tools. The app features a responsive, resizable two-column layout with a dark mode option.",
+  "requestFramePermissions": []
+}
